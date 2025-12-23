@@ -6,6 +6,12 @@
 ### ブランチを作成する  
 <mark>git branch [ブランチ名]</mark>
 
+### マージ済みブランチを削除する  
+<mark>git branch -d [ブランチ名]</mark>
+
+### マージされていないブランチを削除する  
+<mark>git branch -D [ブランチ名]</mark>
+
 ### ブランチを切り替える  
 <mark>git checkout [ブランチ名]</mark>
 
