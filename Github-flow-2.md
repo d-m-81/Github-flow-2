@@ -3,6 +3,9 @@
 ### 現在のブランチを確認する  
 <mark>git branch</mark>
 
+### ブランチを作成する  
+<mark>git branch [ブランチ名]</mark>
+
 ### ブランチを切り替える  
 <mark>git checkout [ブランチ名]</mark>
 
